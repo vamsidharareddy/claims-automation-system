@@ -50,8 +50,10 @@ claims-automation-system/
    ```bash
    streamlit run streamlit_app.py
 
-Sample Output:
 
+## Sample Output
+
+![Sample Output](assets/sample_output.png)
 
 Skills Demonstrated -
 
