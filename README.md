@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Claims Automation System
 
 This project automates the processing of insurance claims by classifying them as either simple (auto-approvable) or complex (requires human review). It handles input formats like .txt and .pdf, extracts fields using NLP (spaCy + regex), and routes the claims based on a trained Decision Tree model.
@@ -52,3 +53,6 @@ Author
 A. Vamsidhara Reddy
 B.Tech CSE, Woxsen University
 GitHub: https://github.com/vamsidharareddy
+=======
+
+>>>>>>> 460137e65bc0daa780134d2ef6538aa1592f7393
