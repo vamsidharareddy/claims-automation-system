@@ -4,7 +4,7 @@ This project automates the processing of insurance claims by classifying them as
 
 ---
 
-## 🔍 Features
+## Features
 
 - Accepts PDF and TXT claim documents
 - Extracts fields like amount, claim type, and date using regex and spaCy
@@ -15,7 +15,7 @@ This project automates the processing of insurance claims by classifying them as
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 claims-automation-system/
 ├── data/ # Raw input claims (txt, pdf)
@@ -30,8 +30,7 @@ claims-automation-system/
 ├── requirements.txt # Python dependencies
 └── README.md # You're here
 
-
-## 🛠 How to Run
+## How to Run
 
 1. Install dependencies:
    ```bash
