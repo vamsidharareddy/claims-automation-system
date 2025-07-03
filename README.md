@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-Claims Automation System
+## Claims Automation System
 
 This project automates the processing of insurance claims by classifying them as either simple (auto-approvable) or complex (requires human review). It handles input formats like .txt and .pdf, extracts fields using NLP (spaCy + regex), and routes the claims based on a trained Decision Tree model.
 
-Features
+## Features
 • Accepts PDF and TXT claim documents
 • Extracts fields like amount, claim type, and date using regex and spaCy
 • Predicts claim complexity using a Decision Tree model
@@ -11,7 +10,7 @@ Features
 • Trained on structured claim data
 • Streamlit UI for uploading multiple claims and prioritizing them
 
-Project Structure
+## Project Structure
 
 claims-automation-system/
 ├── data/                   # Raw input claims (txt, pdf)
@@ -26,7 +25,7 @@ claims-automation-system/
 ├── requirements.txt        # Python dependencies
 └── README.md               # You're here
 
-How to Run
+## How to Run
 1.Install dependencies:
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
@@ -37,11 +36,11 @@ python main.py
 4.Optional: Launch Streamlit UI:
 streamlit run streamlit_app.py
 
-Sample Output
+## Sample Output
 
 
 
-Skills Demonstrated
+## Skills Demonstrated
 • AI/ML: Decision Tree model, feature selection, model training
 • NLP: Information extraction using regex and spaCy
 • Document Handling: PDF and TXT parsing
@@ -53,6 +52,4 @@ Author
 A. Vamsidhara Reddy
 B.Tech CSE, Woxsen University
 GitHub: https://github.com/vamsidharareddy
-=======
 
->>>>>>> 460137e65bc0daa780134d2ef6538aa1592f7393
