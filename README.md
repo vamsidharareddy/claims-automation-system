@@ -17,7 +17,7 @@ This project automates the processing of insurance claims by classifying them as
 
 ## Project Structure
 
-<pre>bash claims-automation-system/ 
+<pre>claims-automation-system/ 
 ├── data
 ├── processed
 ├── ingestion
