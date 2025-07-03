@@ -17,7 +17,7 @@ This project automates the processing of insurance claims by classifying them as
 
 ## Project Structure
 
-<pre> \`\`\`bash claims-automation-system/ 
+<pre>bash claims-automation-system/ 
 ├── data/ # Raw input claims (txt, pdf) 
 ├── processed/ # Processed structured CSV used for training 
 ├── ingestion/ # PDF/text reading logic 
@@ -28,7 +28,7 @@ This project automates the processing of insurance claims by classifying them as
 ├── main.py # Run full pipeline on input files 
 ├── streamlit_app.py # Streamlit app for batch claim analysis 
 ├── requirements.txt # Python dependencies 
-└── README.md # You're here \`\`\` </pre>
+└── README.md # You're here</pre>
 
 ## How to Run
 
