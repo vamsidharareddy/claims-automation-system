@@ -1,0 +1,10 @@
+Claim ID: 8F2C1D34
+Claim Type: auto
+Claim Amount: 5,850
+Number of Documents: 7
+Missing Documents: 0
+Incident Description Length: 78
+Prior Claims: 1
+Customer Age: 35
+Fraud Risk Flag: 0
+Submission Delay Days: 5

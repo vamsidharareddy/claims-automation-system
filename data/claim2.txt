@@ -1,0 +1,10 @@
+Claim ID: C3E7A9F1
+Claim Type: health
+Claim Amount: 18,600
+Number of Documents: 4
+Missing Documents: 2
+Incident Description Length: 155
+Prior Claims: 3
+Customer Age: 60
+Fraud Risk Flag: 1
+Submission Delay Days: 28

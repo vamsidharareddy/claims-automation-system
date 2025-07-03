@@ -1,0 +1,10 @@
+Claim ID: D912A03F
+Claim Type: property
+Claim Amount: 12,750
+Number of Documents: 6
+Missing Documents: 1
+Incident Description Length: 120
+Prior Claims: 2
+Customer Age: 42
+Fraud Risk Flag: 0
+Submission Delay Days: 12
